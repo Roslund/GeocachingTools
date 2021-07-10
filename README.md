@@ -23,4 +23,5 @@ A list of useful geocaching tools
 * https://stegonline.georgeom.net/upload [[Source](https://github.com/Ge0rg3/StegOnline)]: Verry useful tool that check for many different was of hiding infromation in images.
 * https://incoherency.co.uk/image-steganography/#unhide
 * https://osric.com/chris/steganography/decode.html
+* https://magiceye.ecksdee.co.uk: This tool helps you find hidden text in immages where you are "suposed to squit or cross your eyes".
 
