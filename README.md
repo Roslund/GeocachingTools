@@ -1,4 +1,4 @@
-# GeocahingTools
+# GeocachingTools
 A list of useful geocaching tools
 
 ## Genneral
