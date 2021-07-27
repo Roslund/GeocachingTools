@@ -1,7 +1,7 @@
 # GeocachingTools
 A list of useful geocaching tools
 
-## Genneral
+## General
 * [Google Reverse image serarch](https://images.google.com)
 
 ## Collections of tools
@@ -25,3 +25,6 @@ A list of useful geocaching tools
 * https://osric.com/chris/steganography/decode.html
 * https://magiceye.ecksdee.co.uk: This tool helps you find hidden text in immages where you are "suposed to squit or cross your eyes".
 
+## Solvers
+* http://www.geekfrog.ca/WIG/ReverseWigDecode.aspx: For solving Reverse Wherigo
+* 
