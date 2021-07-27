@@ -27,4 +27,4 @@ A list of useful geocaching tools
 
 ## Solvers
 * http://www.geekfrog.ca/WIG/ReverseWigDecode.aspx: For solving Reverse Wherigo
-* 
+* https://www.webwigo.net: A webbased vitrual WIG player
