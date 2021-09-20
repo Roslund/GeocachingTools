@@ -24,6 +24,7 @@ A list of useful geocaching tools
 * https://incoherency.co.uk/image-steganography/#unhide
 * https://osric.com/chris/steganography/decode.html
 * https://magiceye.ecksdee.co.uk: This tool helps you find hidden text in immages where you are "suposed to squit or cross your eyes".
+* https://29a.ch/photo-forensics/#forensic-magnifier: Good tool for analysing images where there might be information hidden in a coulor. 
 
 ## Solvers
 * http://www.geekfrog.ca/WIG/ReverseWigDecode.aspx: For solving Reverse Wherigo
