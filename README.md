@@ -29,3 +29,6 @@ A list of useful geocaching tools
 ## Solvers
 * http://www.geekfrog.ca/WIG/ReverseWigDecode.aspx: For solving Reverse Wherigo
 * https://www.webwigo.net: A webbased vitrual WIG player
+
+## Adventure Labs
+* https://gcutils.de/lab2gpx/ [[Source](https://github.com/mirsch/lab2gpx)]: A tool for downloading ALC's. Can be used for getting Award messages which may contain the awnsers to the bonus cache.
