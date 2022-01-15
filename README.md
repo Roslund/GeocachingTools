@@ -19,6 +19,9 @@ A list of useful geocaching tools
 ## Stenograpy
 * Checklist: https://stegonline.georgeom.net/checklist
 
+## Linguistics
+* https://www.arrak.fi/sv/ag: Agagram solver, support for swedish, english and a few other languges.
+
 ### Images
 * https://stegonline.georgeom.net/upload [[Source](https://github.com/Ge0rg3/StegOnline)]: Verry useful tool that check for many different was of hiding infromation in images.
 * https://incoherency.co.uk/image-steganography/#unhide
